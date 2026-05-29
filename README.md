@@ -117,4 +117,4 @@ MIT
 - VeRi-776 dataset by Liu et al.
 - MobileNetV3 by Howard et al.
 - Supervised Contrastive Learning by Khosla et al.
-```
+
