@@ -1,0 +1,14 @@
+torch
+torchvision
+timm
+torchreid
+gdown
+tensorboard
+numpy
+Pillow
+tqdm
+matplotlib
+
+# Either of these is used for FLOPs profiling in benchmark_reid.py
+ptflops
+thop
